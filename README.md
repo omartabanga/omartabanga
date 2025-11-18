@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/KelviNosse/KelviNosse/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQwY2Mxc2kzcDFjbXptdGNpMjRpZjJhMG8wM3A3ZXc2cjQ0Ym84cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9zExs2Q2h1EHfE4P6G/giphy.gif" alt="Welcome to my profile!" width="100%">
 
 <br />
 
